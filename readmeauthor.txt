@@ -1,0 +1,1 @@
+After extracting the workh folder, place it with the LzigHzig.m file togrther. Run LzigHzig.m in matlab software.
